@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 I'm currently working on Aux-Battles!<br>🫡 I'm looking to collaborate on Full-Stack Projects.<br>🫱‍🫲 I'm looking for help with Figma designers & Frontend engineers! <br>📘 I'm currently learning backend infrastructure.<br>💬 Ask me about joining the team!
+👨‍💻 I'm currently working on Aux-Battles!<br>🫡 I'm looking to collaborate on Pocketbase!<br>🫱‍🫲 I'm looking for help with Figma designers & Frontend engineers! <br>📘 I'm currently learning backend infrastructure.<br>💬 Ask me about joining the team!
 
 
 ## 🌐 Socials:
