@@ -1,3 +1,5 @@
+## 🫡 I promise I don't use javascript, only typescript 🫱‍🫲 
+
 # 💫 About Me:
 👨‍💻 I'm currently working on Aux-Battles!<br>🫡 I'm looking to collaborate on Pocketbase!<br>🫱‍🫲 I'm looking for help with Figma designers & Frontend engineers! <br>📘 I'm currently learning backend infrastructure.<br>💬 Ask me about joining the team!
 
