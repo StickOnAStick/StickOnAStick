@@ -1,4 +1,4 @@
-## 🫡 I promise I don't use javascript, only typescript 🫱‍🫲 
+
 
 # 💫 About Me:
 👨‍💻 I'm currently working on Aux-Battles!<br>🫡 I'm looking to collaborate on Pocketbase!<br>🫱‍🫲 I'm looking for help with Figma designers & Frontend engineers! <br>📘 I'm currently learning backend infrastructure.<br>💬 Ask me about joining the team!
@@ -12,6 +12,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=StickOnAStick&theme=slateorange&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=StickOnAStick&theme=slateorange&hide_border=true)<br/>
+## 🫡 I promise I don't use javascript, only typescript 🫱‍🫲 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=StickOnAStick&theme=slateorange&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 ---
