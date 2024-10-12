@@ -1,7 +1,7 @@
 
 
 # About Me:
-👨‍💻 I'm currently working on U-FI, an AI-powered financial manager.
+👨‍💻 I'm currently working on HearSay, a B2B sentiment-analysis software.
 
 
 ## 🌐 Socials:
